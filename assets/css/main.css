@@ -13,8 +13,8 @@
 	margin: 20px 25px 20px 0;
 }
 
-div.container {
-	padding: 0;
+.footer-container {
+	padding: 0 !important;
 }
 
 html, body, div, span, applet, object,
