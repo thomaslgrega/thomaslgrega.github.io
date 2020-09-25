@@ -1,1 +1,1 @@
-### Thomas Grega's portfolio
+Thomas Grega's portfolio
